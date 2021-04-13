@@ -23,7 +23,7 @@ void abort(void);
 
 void main(void)
 {
-	int ver=3;
+	int ver=4;
 }
 
 #ifdef __cplusplus
